@@ -10,6 +10,10 @@ Description: Developed FairView, a database project designed to analyze World Ba
 
 **Key Features:**
 
-Data Handling: Implemented functionalities for retrieving, cleaning, and storing large datasets from the World Bank using Python scripts. MongoDB was used to manage and query the data efficiently.
-Analysis and Insights: Conducted comprehensive analyses to uncover trends and disparities in gender education and pay across different regions and time periods.
-Visualization: Created insightful visualizations using Jupyter Notebook to present data in an accessible and engaging manner, highlighting key findings and trends.
+**1. Data Handling:** Implemented functionalities for retrieving, cleaning, and storing large datasets from the World Bank using Python scripts. MongoDB was used to manage and query the data efficiently.
+
+   
+**2. Analysis and Insights:** Conducted comprehensive analyses to uncover trends and disparities in gender education and pay across different regions and time periods.
+
+
+**3. Visualization:** Created insightful visualizations using Jupyter Notebook to present data in an accessible and engaging manner, highlighting key findings and trends.
